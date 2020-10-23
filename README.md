@@ -8,7 +8,7 @@ The target of this project is to build and evaluate classification model to pred
 This project was developed for the purpose of practicing machine learning and data mining in Python.
 Source of dataset: UCI Machine Learning Repository
 
-##### It is preferred to run/view the project via Jupyter Notebook (.ipynb), sometimes it is required to press "Reload" to load the file, than via a browser (HTML).
+##### It is preferred to run/view the project via Jupyter Notebook (.ipynb), sometimes it is required to press "Reload" to load the file, than via a browser (HTML). To see the HTML version you first need to download the HTML file and then run it in your browser.
 
 ### Programming language and platform
 * Python - version : 3.7.4
